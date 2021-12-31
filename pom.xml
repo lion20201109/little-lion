@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jyc.lion</groupId>
-    <artifactId>xsz</artifactId>
+    <artifactId>lion</artifactId>
     <version>1.0</version>
-    <name>xsz</name>
+    <name>lion</name>
     <description>xiaoshizi</description>
     <properties>
         <java.version>1.8</java.version>
